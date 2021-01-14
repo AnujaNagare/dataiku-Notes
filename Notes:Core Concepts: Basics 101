@@ -1,0 +1,33 @@
+## Core Concepts: Basics 101
+
+
+Concept Summary: Create Your Project
+
+The homepage is like the default page of a website, it’s where you land when you sign in via your web browser. This is where you will be able to see shared projects and collaborate with colleagues.
+
+
+In the Homepage Concept video we learned the following:
+
+    The homepage is where you go to create a new project.
+    Your most recently used items appear at the top but this is customizable.
+    There are sections for projects, project folders, dashboards, and wikis.
+    There is a shortcut at the bottom of the homepage for getting started with DSS.
+
+In addition, you can use the apps menu in the upper-right part of the screen to find environment-level features like administration and security.
+Project
+
+The project is your command center. It contains all your work on a specific activity. Projects are created from the homepage and can be organized into project folders. You can do things like check the overall status of the project, view recent user activity, view contributors, and check off items on a to-do list. Project commands include duplicating, exporting, and even deleting a project (if your access level permits it).
+
+Collaboration
+
+Collaboration includes things like discussions, to-do lists, wikis, and dashboards. There are preparation steps you can take to prepare your project for collaboration with others on your team. For example, you’ll want other users to be able to identify the project’s name, purpose, and status. You’ll also want them to be able to find your project by searching the DSS instance. One way to make your project discoverable is by using tags.
+
+Global Search
+
+Dataiku DSS provides a search bar at the top of every screen. Global search enables you to find and navigate to many different types of Dataiku DSS elements. It searches across several sources including the help pages, recent items, screens and settings within the product, and the catalog. You can focus your search on particular types of items using filters.
+
+Catalog
+
+The Catalog is another way to search. Use the Catalog to search for all the data assets you have created, connected to, or brought into DSS. To manage search results, you can sort or apply filters. You can select an item from search results to go directly to that item.
+
+
